@@ -1,0 +1,27 @@
+2023-03-15 08:49:02.5281 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-15 09:04:04.4482 INFO User has been registered Successfully
+2023-03-15 09:05:42.8843 ERROR Index and length must refer to a location within the string. (Parameter 'length')
+2023-03-15 09:08:14.2990 ERROR Index and length must refer to a location within the string. (Parameter 'length')
+2023-03-15 09:14:03.7352 ERROR Index and length must refer to a location within the string. (Parameter 'length')
+2023-03-15 09:49:26.4180 INFO Information is logged
+2023-03-15 10:37:54.7297 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-15 11:40:56.6676 INFO Displayed the list of books successfully
+2023-03-15 11:44:44.2427 WARN Book is already present
+2023-03-15 11:44:52.8084 WARN Book is already present
+2023-03-15 11:59:42.7097 WARN Book is already present
+2023-03-15 12:02:35.3247 WARN Book is already present
+2023-03-15 12:09:46.3976 INFO Information is logged
+2023-03-15 12:09:51.6175 INFO Displayed the list of books successfully
+2023-03-15 12:11:04.3358 INFO Book Updated sucessfully
+2023-03-15 12:11:04.3576 INFO Displayed the list of books successfully
+2023-03-15 12:31:42.5573 INFO Displayed the list of books successfully
+2023-03-15 12:44:52.6664 INFO Displayed the list of books successfully
+2023-03-15 12:59:25.9487 INFO Displayed the list of books successfully
+2023-03-15 13:17:09.0737 INFO Displayed the list of books successfully
+2023-03-15 14:18:49.6628 INFO Displayed the list of books successfully
+2023-03-15 14:19:28.9953 WARN Book is already present
+2023-03-15 14:21:08.3339 INFO Book Added Successfully
+2023-03-15 14:21:08.3772 INFO Displayed the list of books successfully
+2023-03-15 15:54:24.7356 INFO User has been registered Successfully
+2023-03-15 15:56:09.6982 INFO User has been logged in Successfully
+2023-03-15 15:56:10.0082 INFO Displayed the list of users successfully

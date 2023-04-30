@@ -1,0 +1,26 @@
+2023-03-14 01:00:15.5756 INFO Displayed the list of books successfully
+2023-03-14 09:47:03.6207 INFO Displayed the list of books successfully
+2023-03-14 09:48:32.1726 INFO Book Added Successfully
+2023-03-14 09:48:32.2051 INFO Displayed the list of books successfully
+2023-03-14 10:18:43.6666 INFO Displayed the list of books successfully
+2023-03-14 10:19:32.6203 INFO Displayed the list of books successfully
+2023-03-14 10:21:46.9818 INFO Displayed the list of books successfully
+2023-03-14 10:22:36.3073 INFO Displayed the list of books successfully
+2023-03-14 11:01:41.8571 INFO Displayed the list of books successfully
+2023-03-14 11:06:32.9030 INFO Displayed the list of books successfully
+2023-03-14 11:12:55.9049 INFO Displayed the list of books successfully
+2023-03-14 17:05:34.7029 INFO Displayed the list of books successfully
+2023-03-14 22:44:13.2138 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 22:44:26.7243 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 22:45:06.3115 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 22:46:23.6535 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 23:01:29.3060 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 23:02:15.5445 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 23:02:26.0600 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 23:02:32.2280 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 23:03:39.1766 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 23:06:38.6395 INFO Displayed the list of books successfully
+2023-03-14 23:09:15.7862 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 23:10:43.4357 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 23:13:10.6419 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-14 23:26:25.1839 ERROR An error occurred while saving the entity changes. See the inner exception for details.

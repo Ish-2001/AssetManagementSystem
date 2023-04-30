@@ -1,0 +1,46 @@
+﻿@model IEnumerable<AssetManagementSystemUI.Models.AssetDTO>
+
+@{
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+    ViewData["Title"] = "GetRequests";
+    <p style="color : darkgreen">@TempData["message"]</p>
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+                 @{
+                      ViewBag.Status = item.Status;
+                  }
+            </td>
+            <td>
+                @if(ViewBag.Status==Status.Requested.ToString())
+                    @Html.ActionLink("Cancel", "CancelRequest", new { id = item.Id}) 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

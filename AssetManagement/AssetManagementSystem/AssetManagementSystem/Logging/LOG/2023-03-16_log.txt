@@ -1,0 +1,36 @@
+2023-03-16 10:56:42.0601 INFO Displayed the list of books successfully
+2023-03-16 11:01:16.6968 WARN Book is already present
+2023-03-16 13:53:01.8543 INFO Displayed the list of books successfully
+2023-03-16 13:53:02.3695 INFO Displayed the list of books successfully
+2023-03-16 13:54:58.6365 INFO Displayed the list of books successfully
+2023-03-16 13:56:10.5887 INFO Displayed the list of books successfully
+2023-03-16 13:57:48.3838 INFO Displayed the list of books successfully
+2023-03-16 13:58:36.0322 INFO Displayed the list of books successfully
+2023-03-16 16:15:40.1513 ERROR An error occurred while saving the entity changes. See the inner exception for details.
+2023-03-16 16:22:44.8852 INFO Asset Added Successfully
+2023-03-16 17:14:19.3385 INFO Displayed the list of books successfully
+2023-03-16 17:18:30.2951 INFO Displayed the list of books successfully
+2023-03-16 17:26:59.8819 INFO Displayed the list of books successfully
+2023-03-16 17:27:48.0204 INFO Displayed the list of books successfully
+2023-03-16 17:31:41.2798 INFO Displayed the list of books successfully
+2023-03-16 21:09:14.0228 INFO Displayed the list of books successfully
+2023-03-16 21:12:07.0846 INFO Displayed the list of books successfully
+2023-03-16 21:15:05.4215 INFO Displayed the list of books successfully
+2023-03-16 21:24:26.8399 INFO Asset Added Successfully
+2023-03-16 21:31:08.7816 INFO Displayed the list of books successfully
+2023-03-16 21:32:10.1676 INFO Asset Added Successfully
+2023-03-16 21:32:53.2289 INFO Displayed the list of books successfully
+2023-03-16 21:39:37.6594 INFO Displayed the list of books successfully
+2023-03-16 21:39:45.4909 INFO Displayed the list of books successfully
+2023-03-16 21:50:50.5625 INFO Book deleted successfully"
+2023-03-16 21:51:40.9984 INFO Displayed the list of books successfully
+2023-03-16 21:51:55.5975 INFO Displayed the list of books successfully
+2023-03-16 21:51:55.6407 INFO Book deleted successfully"
+2023-03-16 21:52:30.0299 WARN Book not present
+2023-03-16 21:52:30.0299 INFO Displayed the list of books successfully
+2023-03-16 21:52:49.7762 INFO Book deleted successfully"
+2023-03-16 21:52:49.8121 INFO Displayed the list of books successfully
+2023-03-16 23:48:21.8457 INFO Displayed the list of books successfully
+2023-03-16 23:49:06.2447 INFO Asset Added Successfully
+2023-03-16 23:49:06.4079 INFO Displayed the list of books successfully
+2023-03-16 23:57:57.0672 INFO Displayed the list of books successfully

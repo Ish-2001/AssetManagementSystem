@@ -1,0 +1,71 @@
+﻿@model IEnumerable<AssetManagementSystemUI.Models.AssetDTO>
+
+@{
+    Layout = "~/Views/Shared/_OtherLayout.cshtml";
+    <p style="color : darkgreen">@TempData["message"]</p>
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssignDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnassignDate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+                        @{
+                            ViewBag.Status = item.Status;
+                        }
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssignDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnassignDate)
+            </td>
+            <td>
+                @if (ViewBag.Status == Status.Assigned.ToString() || ViewBag.Status == Status.Accepted.ToString())
+                    @Html.ActionLink("Unassign", "Unassign", new { id = item.Id, assetName = item.AssetName, userName = item.UserName, assetType = item.AssetType, assignDate = item.AssignDate})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</body>
+</html>

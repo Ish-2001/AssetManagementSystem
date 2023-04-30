@@ -1,0 +1,246 @@
+2023-03-28 09:05:59.4769 INFO User has been logged in Successfully
+2023-03-28 09:06:04.2388 INFO Displayed the list of assets successfully
+2023-03-28 09:06:05.5075 INFO Displayed the list of assets categories successfully
+2023-03-28 09:06:12.3327 INFO Displayed the list of assets successfully
+2023-03-28 09:06:12.3876 INFO Displayed the list of users successfully
+2023-03-28 09:06:13.8908 INFO Displayed the list of assets successfully
+2023-03-28 09:06:15.1397 INFO Displayed the list of assets successfully
+2023-03-28 09:06:15.9881 INFO Displayed the list of assets successfully
+2023-03-28 09:06:17.5048 INFO Displayed the list of assets successfully
+2023-03-28 09:06:30.3676 INFO Displayed the list of assets successfully
+2023-03-28 09:06:35.3525 INFO Displayed the list of assets successfully
+2023-03-28 09:06:42.3903 INFO Displayed the list of assets successfully
+2023-03-28 09:06:42.4118 INFO Displayed the list of assets categories successfully
+2023-03-28 09:06:42.4335 INFO Displayed the list of users successfully
+2023-03-28 09:06:42.5440 INFO Information is logged
+2023-03-28 09:06:43.8260 INFO Displayed the list of assets successfully
+2023-03-28 09:06:43.9873 INFO Displayed the list of users successfully
+2023-03-28 09:06:45.2057 INFO Displayed the list of assets successfully
+2023-03-28 09:06:46.9903 INFO Displayed the list of assets successfully
+2023-03-28 09:06:47.4084 INFO Displayed the list of assets successfully
+2023-03-28 09:06:47.8355 INFO Displayed the list of assets successfully
+2023-03-28 09:06:49.1941 INFO Displayed the list of assets successfully
+2023-03-28 09:07:07.4225 INFO Information is logged
+2023-03-28 09:07:18.5019 INFO Displayed the list of assets successfully
+2023-03-28 09:07:19.7264 INFO Displayed the list of users successfully
+2023-03-28 09:07:41.2457 INFO Displayed the list of assets successfully
+2023-03-28 09:07:51.6171 INFO Displayed the list of assets successfully
+2023-03-28 09:08:02.9089 INFO Displayed the list of assets successfully
+2023-03-28 09:08:14.8523 INFO Displayed the list of assets successfully
+2023-03-28 09:24:04.9380 INFO Admin has been logged in Successfully
+2023-03-28 09:24:06.3490 INFO Displayed the list of assets successfully
+2023-03-28 09:24:07.9682 INFO Displayed the list of assets successfully
+2023-03-28 09:24:07.9928 INFO Displayed the list of users successfully
+2023-03-28 09:24:19.1340 INFO Displayed the list of assets successfully
+2023-03-28 09:24:19.1473 INFO Displayed the list of users successfully
+2023-03-28 09:24:22.7551 INFO Displayed the list of assets successfully
+2023-03-28 09:24:22.7551 INFO Displayed the list of users successfully
+2023-03-28 09:24:24.3199 INFO Displayed the list of assets successfully
+2023-03-28 09:24:24.3312 INFO Displayed the list of users successfully
+2023-03-28 09:24:25.1989 INFO Displayed the list of assets successfully
+2023-03-28 09:24:25.2113 INFO Displayed the list of users successfully
+2023-03-28 09:24:26.4497 INFO Displayed the list of assets successfully
+2023-03-28 09:24:26.4597 INFO Displayed the list of users successfully
+2023-03-28 09:24:27.2116 INFO Displayed the list of assets successfully
+2023-03-28 09:24:27.2234 INFO Displayed the list of users successfully
+2023-03-28 09:24:56.7122 INFO Displayed the list of assets successfully
+2023-03-28 09:25:05.1606 INFO Displayed the list of assets successfully
+2023-03-28 09:26:21.4437 INFO Displayed the list of users successfully
+2023-03-28 09:26:31.3033 INFO Displayed the list of assets successfully
+2023-03-28 09:36:58.1514 INFO Admin has been logged in Successfully
+2023-03-28 09:36:59.8931 INFO Displayed the list of assets successfully
+2023-03-28 09:37:01.8009 INFO Displayed the list of assets successfully
+2023-03-28 09:37:01.8374 INFO Displayed the list of users successfully
+2023-03-28 09:37:03.7839 INFO Displayed the list of assets successfully
+2023-03-28 09:37:03.7839 INFO Displayed the list of users successfully
+2023-03-28 09:37:05.0622 INFO Displayed the list of assets successfully
+2023-03-28 09:37:05.0748 INFO Displayed the list of users successfully
+2023-03-28 09:37:06.0224 INFO Displayed the list of assets successfully
+2023-03-28 09:37:06.0381 INFO Displayed the list of users successfully
+2023-03-28 09:37:07.2172 INFO Displayed the list of assets successfully
+2023-03-28 09:37:07.2362 INFO Displayed the list of users successfully
+2023-03-28 09:37:08.3818 INFO Displayed the list of assets successfully
+2023-03-28 09:37:08.3977 INFO Displayed the list of users successfully
+2023-03-28 09:37:09.3668 INFO Displayed the list of assets successfully
+2023-03-28 09:37:09.3823 INFO Displayed the list of users successfully
+2023-03-28 09:37:17.4308 INFO Displayed the list of assets successfully
+2023-03-28 09:37:20.2118 INFO Displayed the list of assets successfully
+2023-03-28 09:37:20.2249 INFO Displayed the list of users successfully
+2023-03-28 09:37:21.5848 INFO Displayed the list of assets successfully
+2023-03-28 09:37:21.6023 INFO Displayed the list of users successfully
+2023-03-28 09:37:22.3999 INFO Displayed the list of assets successfully
+2023-03-28 09:37:22.4214 INFO Displayed the list of users successfully
+2023-03-28 09:37:23.2225 INFO Displayed the list of assets successfully
+2023-03-28 09:37:23.2361 INFO Displayed the list of users successfully
+2023-03-28 09:37:24.3517 INFO Displayed the list of assets successfully
+2023-03-28 09:37:24.3649 INFO Displayed the list of users successfully
+2023-03-28 09:37:25.6354 INFO Displayed the list of assets successfully
+2023-03-28 09:37:25.6508 INFO Displayed the list of users successfully
+2023-03-28 09:37:26.7395 INFO Displayed the list of assets successfully
+2023-03-28 09:37:26.7536 INFO Displayed the list of users successfully
+2023-03-28 09:37:26.7678 INFO Displayed the list of assets successfully
+2023-03-28 09:37:27.9890 INFO Displayed the list of assets successfully
+2023-03-28 09:37:28.0043 INFO Displayed the list of users successfully
+2023-03-28 09:37:28.8606 INFO Displayed the list of assets successfully
+2023-03-28 09:37:28.8763 INFO Displayed the list of users successfully
+2023-03-28 09:37:29.7307 INFO Displayed the list of assets successfully
+2023-03-28 09:37:29.7457 INFO Displayed the list of users successfully
+2023-03-28 09:37:34.5251 INFO Displayed the list of assets successfully
+2023-03-28 09:37:34.5360 INFO Displayed the list of users successfully
+2023-03-28 09:37:35.6496 INFO Displayed the list of assets successfully
+2023-03-28 09:37:35.6618 INFO Displayed the list of users successfully
+2023-03-28 09:37:36.4771 INFO Displayed the list of assets successfully
+2023-03-28 09:37:36.4892 INFO Displayed the list of users successfully
+2023-03-28 09:37:37.3857 INFO Displayed the list of assets successfully
+2023-03-28 09:37:37.4018 INFO Displayed the list of users successfully
+2023-03-28 09:38:02.1824 INFO Displayed the list of assets successfully
+2023-03-28 09:38:28.3034 INFO Displayed the list of assets successfully
+2023-03-28 09:38:45.2285 INFO Displayed the list of assets successfully
+2023-03-28 09:38:51.4800 INFO Displayed the list of assets successfully
+2023-03-28 09:39:12.2328 INFO User has been logged in Successfully
+2023-03-28 09:39:14.4278 INFO Displayed the list of assets successfully
+2023-03-28 09:39:14.4576 INFO Displayed the list of assets categories successfully
+2023-03-28 09:39:20.7460 INFO Displayed the list of assets successfully
+2023-03-28 09:39:20.7606 INFO Displayed the list of users successfully
+2023-03-28 09:39:21.7759 INFO Displayed the list of assets successfully
+2023-03-28 09:39:23.0511 INFO Displayed the list of assets successfully
+2023-03-28 09:39:23.7003 INFO Displayed the list of assets successfully
+2023-03-28 09:39:23.9175 INFO Displayed the list of assets successfully
+2023-03-28 09:39:30.1533 INFO Displayed the list of assets successfully
+2023-03-28 10:00:16.5772 INFO Admin has been logged in Successfully
+2023-03-28 10:00:17.8683 INFO Displayed the list of assets successfully
+2023-03-28 10:00:19.4339 INFO Displayed the list of assets successfully
+2023-03-28 10:00:19.4769 INFO Displayed the list of users successfully
+2023-03-28 10:00:19.6360 INFO Displayed the list of assets successfully
+2023-03-28 10:00:19.6543 INFO Displayed the list of users successfully
+2023-03-28 10:00:19.8706 INFO Displayed the list of assets successfully
+2023-03-28 10:00:19.9952 INFO Displayed the list of users successfully
+2023-03-28 10:00:21.5151 INFO Displayed the list of assets successfully
+2023-03-28 10:00:21.5518 INFO Displayed the list of users successfully
+2023-03-28 10:00:21.7188 INFO Displayed the list of assets successfully
+2023-03-28 10:00:21.7188 INFO Displayed the list of users successfully
+2023-03-28 10:00:21.9676 INFO Displayed the list of assets successfully
+2023-03-28 10:00:21.9936 INFO Displayed the list of users successfully
+2023-03-28 10:00:22.1065 INFO Displayed the list of assets successfully
+2023-03-28 10:00:22.1287 INFO Displayed the list of users successfully
+2023-03-28 11:06:16.0640 WARN User is not present
+2023-03-28 11:06:36.0291 WARN User is not present
+2023-03-28 11:07:39.3868 WARN User is not present
+2023-03-28 11:07:54.4540 WARN User is not present
+2023-03-28 11:08:02.9175 INFO User has been logged in Successfully
+2023-03-28 11:08:07.2594 INFO Displayed the list of assets successfully
+2023-03-28 11:08:07.5758 INFO Displayed the list of assets categories successfully
+2023-03-28 11:11:24.0292 INFO User has been logged in Successfully
+2023-03-28 11:11:24.3926 INFO Displayed the list of assets successfully
+2023-03-28 11:11:24.6287 INFO Displayed the list of assets categories successfully
+2023-03-28 11:12:33.5400 INFO User has been logged in Successfully
+2023-03-28 11:12:41.8410 INFO Displayed the list of assets successfully
+2023-03-28 11:12:42.4885 INFO Displayed the list of assets categories successfully
+2023-03-28 11:15:46.9580 INFO User has been logged in Successfully
+2023-03-28 11:15:49.0658 INFO Displayed the list of assets successfully
+2023-03-28 11:15:49.2712 INFO Displayed the list of assets categories successfully
+2023-03-28 11:17:33.9336 INFO Admin has been logged in Successfully
+2023-03-28 11:17:35.2515 INFO Displayed the list of assets successfully
+2023-03-28 11:17:36.8242 INFO Displayed the list of assets successfully
+2023-03-28 11:17:36.8556 INFO Displayed the list of users successfully
+2023-03-28 11:17:40.4691 INFO Displayed the list of assets successfully
+2023-03-28 11:17:40.4799 INFO Displayed the list of users successfully
+2023-03-28 11:17:42.2673 INFO Displayed the list of assets successfully
+2023-03-28 11:17:42.2835 INFO Displayed the list of users successfully
+2023-03-28 11:17:47.1754 INFO Displayed the list of assets successfully
+2023-03-28 11:17:47.1926 INFO Displayed the list of users successfully
+2023-03-28 11:17:47.9472 INFO Displayed the list of assets successfully
+2023-03-28 11:17:47.9618 INFO Displayed the list of users successfully
+2023-03-28 11:17:48.1249 INFO Displayed the list of assets successfully
+2023-03-28 11:17:48.1424 INFO Displayed the list of users successfully
+2023-03-28 11:17:48.3468 INFO Displayed the list of assets successfully
+2023-03-28 11:17:48.3646 INFO Displayed the list of users successfully
+2023-03-28 11:18:27.4768 INFO User has been logged in Successfully
+2023-03-28 11:18:27.8047 INFO Displayed the list of assets successfully
+2023-03-28 11:18:27.9478 INFO Displayed the list of assets categories successfully
+2023-03-28 11:21:09.6885 INFO User has been logged in Successfully
+2023-03-28 11:21:12.2186 INFO Displayed the list of assets successfully
+2023-03-28 11:21:12.5176 INFO Displayed the list of assets categories successfully
+2023-03-28 11:21:32.1295 INFO User has been logged in Successfully
+2023-03-28 11:21:32.4844 INFO Displayed the list of assets successfully
+2023-03-28 11:21:32.6950 INFO Displayed the list of assets categories successfully
+2023-03-28 11:41:17.6771 INFO User has been logged in Successfully
+2023-03-28 11:41:20.7321 INFO Displayed the list of assets successfully
+2023-03-28 11:41:21.0578 INFO Displayed the list of assets categories successfully
+2023-03-28 11:43:14.5248 INFO Admin has been logged in Successfully
+2023-03-28 11:43:15.9709 INFO Displayed the list of assets successfully
+2023-03-28 11:43:17.1787 INFO Displayed the list of assets successfully
+2023-03-28 11:43:17.2323 INFO Displayed the list of users successfully
+2023-03-28 11:43:19.5734 INFO Displayed the list of assets successfully
+2023-03-28 11:43:19.5899 INFO Displayed the list of users successfully
+2023-03-28 11:43:20.9677 INFO Displayed the list of assets successfully
+2023-03-28 11:43:20.9827 INFO Displayed the list of users successfully
+2023-03-28 11:43:23.3636 INFO Displayed the list of assets successfully
+2023-03-28 11:43:23.3636 INFO Displayed the list of users successfully
+2023-03-28 11:43:24.4673 INFO Displayed the list of assets successfully
+2023-03-28 11:43:24.4820 INFO Displayed the list of users successfully
+2023-03-28 11:43:25.5302 INFO Displayed the list of assets successfully
+2023-03-28 11:43:25.5445 INFO Displayed the list of users successfully
+2023-03-28 11:43:26.3121 INFO Displayed the list of assets successfully
+2023-03-28 11:43:26.3421 INFO Displayed the list of users successfully
+2023-03-28 11:43:51.5526 INFO Displayed the list of assets successfully
+2023-03-28 11:44:00.8589 INFO Displayed the list of assets categories successfully
+2023-03-28 11:44:51.7132 INFO Displayed the list of assets successfully
+2023-03-28 11:44:58.9564 INFO Displayed the list of assets categories successfully
+2023-03-28 11:46:25.5180 INFO Admin has been logged in Successfully
+2023-03-28 11:46:25.9040 INFO Displayed the list of assets successfully
+2023-03-28 11:46:26.1501 INFO Displayed the list of assets successfully
+2023-03-28 11:46:26.1812 INFO Displayed the list of users successfully
+2023-03-28 11:46:26.2127 INFO Displayed the list of assets successfully
+2023-03-28 11:46:26.2261 INFO Displayed the list of users successfully
+2023-03-28 11:46:26.2398 INFO Displayed the list of assets successfully
+2023-03-28 11:46:26.2398 INFO Displayed the list of users successfully
+2023-03-28 11:46:26.2597 INFO Displayed the list of assets successfully
+2023-03-28 11:46:26.2686 INFO Displayed the list of users successfully
+2023-03-28 11:46:26.2686 INFO Displayed the list of assets successfully
+2023-03-28 11:46:26.2876 INFO Displayed the list of users successfully
+2023-03-28 11:46:26.2876 INFO Displayed the list of assets successfully
+2023-03-28 11:46:26.3081 INFO Displayed the list of users successfully
+2023-03-28 11:46:26.3187 INFO Displayed the list of assets successfully
+2023-03-28 11:46:26.3309 INFO Displayed the list of users successfully
+2023-03-28 11:46:38.5946 INFO Displayed the list of assets successfully
+2023-03-28 11:46:38.6102 INFO Displayed the list of assets categories successfully
+2023-03-28 11:47:03.0802 INFO User has been logged in Successfully
+2023-03-28 11:47:03.3916 INFO Displayed the list of assets successfully
+2023-03-28 11:47:03.4022 INFO Displayed the list of assets categories successfully
+2023-03-28 11:47:11.3982 INFO Displayed the list of assets successfully
+2023-03-28 11:47:11.4117 INFO Displayed the list of assets successfully
+2023-03-28 11:47:11.4117 INFO Displayed the list of users successfully
+2023-03-28 11:47:11.4294 INFO Displayed the list of assets successfully
+2023-03-28 11:47:11.4294 INFO Displayed the list of users successfully
+2023-03-28 11:47:11.4473 INFO Displayed the list of assets successfully
+2023-03-28 11:47:11.4579 INFO Displayed the list of users successfully
+2023-03-28 11:47:11.4579 INFO Displayed the list of assets successfully
+2023-03-28 11:47:11.4771 INFO Displayed the list of users successfully
+2023-03-28 11:47:11.4771 INFO Displayed the list of assets successfully
+2023-03-28 11:47:11.4917 INFO Displayed the list of users successfully
+2023-03-28 11:47:11.4917 INFO Displayed the list of assets successfully
+2023-03-28 11:47:11.5074 INFO Displayed the list of users successfully
+2023-03-28 11:47:11.5074 INFO Displayed the list of assets successfully
+2023-03-28 11:47:11.5228 INFO Displayed the list of users successfully
+2023-03-28 11:50:10.9901 INFO User has been logged in Successfully
+2023-03-28 11:50:11.3580 INFO Displayed the list of assets successfully
+2023-03-28 11:50:11.5254 INFO Displayed the list of assets categories successfully
+2023-03-28 11:50:39.7310 INFO Admin has been logged in Successfully
+2023-03-28 11:50:40.1016 INFO Displayed the list of assets successfully
+2023-03-28 11:50:40.1298 INFO Displayed the list of assets successfully
+2023-03-28 11:50:40.1472 INFO Displayed the list of users successfully
+2023-03-28 11:50:40.1949 INFO Displayed the list of assets successfully
+2023-03-28 11:50:40.2080 INFO Displayed the list of users successfully
+2023-03-28 11:50:40.2202 INFO Displayed the list of assets successfully
+2023-03-28 11:50:40.2327 INFO Displayed the list of users successfully
+2023-03-28 11:50:40.2327 INFO Displayed the list of assets successfully
+2023-03-28 11:50:40.2595 INFO Displayed the list of users successfully
+2023-03-28 11:50:40.2700 INFO Displayed the list of assets successfully
+2023-03-28 11:50:40.2817 INFO Displayed the list of users successfully
+2023-03-28 11:50:40.2817 INFO Displayed the list of assets successfully
+2023-03-28 11:50:40.3047 INFO Displayed the list of users successfully
+2023-03-28 11:50:40.3164 INFO Displayed the list of assets successfully
+2023-03-28 11:50:40.3280 INFO Displayed the list of users successfully
+2023-03-28 11:50:48.0325 INFO Displayed the list of assets successfully
+2023-03-28 11:50:48.0325 INFO Displayed the list of assets categories successfully

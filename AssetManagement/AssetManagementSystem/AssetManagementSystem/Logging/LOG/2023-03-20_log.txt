@@ -1,0 +1,37 @@
+2023-03-20 11:27:27.1513 INFO User has been logged in Successfully
+2023-03-20 11:41:18.5427 INFO User has been logged in Successfully
+2023-03-20 11:41:18.9289 ERROR IDX10653: The encryption algorithm 'http://www.w3.org/2001/04/xmldsig-more#hmac-sha256' requires a key size of at least '128' bits. Key '[PII of type 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]', is of size: '72'. (Parameter 'key')
+2023-03-20 11:43:29.2764 INFO User has been logged in Successfully
+2023-03-20 11:57:24.5264 INFO User has been logged in Successfully
+2023-03-20 12:01:41.0417 INFO User has been logged in Successfully
+2023-03-20 12:06:09.9798 INFO User has been logged in Successfully
+2023-03-20 12:07:16.1653 INFO User has been logged in Successfully
+2023-03-20 12:11:08.0108 INFO User has been logged in Successfully
+2023-03-20 12:13:23.2770 INFO User has been logged in Successfully
+2023-03-20 12:17:01.9658 INFO User has been logged in Successfully
+2023-03-20 12:17:43.0887 INFO Displayed the list of assets successfully
+2023-03-20 14:29:55.4884 INFO User has been registered Successfully
+2023-03-20 14:35:54.6924 WARN Admin is not present
+2023-03-20 14:36:26.1933 WARN Admin is not present
+2023-03-20 14:36:32.6370 WARN Admin is not present
+2023-03-20 14:37:35.9983 INFO User has been registered Successfully
+2023-03-20 14:38:07.0776 WARN Admin is not present
+2023-03-20 14:41:11.0970 INFO Admin has been logged in Successfully
+2023-03-20 14:55:43.6822 INFO User has been logged in Successfully
+2023-03-20 14:57:23.6983 INFO User has been logged in Successfully
+2023-03-20 14:57:46.0346 ERROR Object reference not set to an instance of an object.
+2023-03-20 14:59:21.2670 INFO User has been logged in Successfully
+2023-03-20 15:05:52.6296 INFO User has been logged in Successfully
+2023-03-20 15:06:51.0081 INFO Displayed the list of assets successfully
+2023-03-20 15:08:48.2782 INFO Admin has been logged in Successfully
+2023-03-20 15:12:11.6932 INFO Admin has been logged in Successfully
+2023-03-20 15:14:09.7593 INFO Admin has been logged in Successfully
+2023-03-20 15:15:04.3738 INFO Displayed the list of assets successfully
+2023-03-20 15:39:56.1788 INFO Admin has been logged in Successfully
+2023-03-20 22:54:10.8853 INFO Admin has been logged in Successfully
+2023-03-20 22:56:41.0268 INFO Admin has been logged in Successfully
+2023-03-20 22:58:11.8539 INFO Displayed the list of assets successfully
+2023-03-20 23:05:29.6293 INFO Admin has been logged in Successfully
+2023-03-20 23:07:12.3740 INFO Displayed the list of assets successfully
+2023-03-20 23:17:18.8497 WARN Admin is not present
+2023-03-20 23:17:53.8662 INFO Admin has been logged in Successfully

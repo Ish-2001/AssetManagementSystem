@@ -1,0 +1,64 @@
+﻿@model IEnumerable<AssetManagementSystemUI.Models.AssetDTO>
+
+@{
+    ViewData["Title"] = "GetRequestedAssets";
+    Layout = "~/Views/Shared/_OtherLayout.cshtml";
+    <p style="color : darkgreen">@TempData["message"]</p>
+    <p style="color : red">@TempData["declinedmessage"]</p>
+    <p style="color : red">@TempData["acceptedmessage"]</p>
+}
+
+<h1>GetRequestedAssets</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.ActionLink("Accept", "AcceptRequest", new {assetName = item.AssetName, userName = item.UserName, assetId = item.AssetId, status = item.Status, assetType = item.AssetType, quantity = item.Quantity }) |
+                @Html.ActionLink("Decline", "DeclineRequest", new {assetName = item.AssetName, userName = item.UserName, assetId = item.AssetId, status = item.Status, assetType = item.AssetType, quantity = item.Quantity })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

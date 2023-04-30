@@ -1,0 +1,19 @@
+2023-03-17 00:02:58.0481 INFO Displayed the list of books successfully
+2023-03-17 00:04:31.0035 INFO Displayed the list of books successfully
+2023-03-17 00:11:14.8705 INFO Displayed the list of books successfully
+2023-03-17 00:11:14.8705 INFO Displayed the list of books successfully
+2023-03-17 00:14:28.0577 INFO Displayed the list of books successfully
+2023-03-17 00:15:33.4176 INFO Displayed the list of books successfully
+2023-03-17 00:17:46.5285 INFO Displayed the list of books successfully
+2023-03-17 00:23:29.1993 INFO Displayed the list of books successfully
+2023-03-17 00:26:25.2593 INFO Displayed the list of books successfully
+2023-03-17 00:27:22.2812 INFO Asset Updated sucessfully
+2023-03-17 00:27:51.9892 INFO Displayed the list of books successfully
+2023-03-17 10:29:14.1372 INFO Displayed the list of books successfully
+2023-03-17 11:09:33.3480 INFO Displayed the list of books successfully
+2023-03-17 11:10:16.4997 INFO Displayed the list of books successfully
+2023-03-17 11:20:53.3830 INFO Displayed the list of books successfully
+2023-03-17 11:23:36.5363 INFO Displayed the list of books successfully
+2023-03-17 11:23:56.4088 INFO Displayed the list of books successfully
+2023-03-17 11:30:34.4996 INFO Displayed the list of books successfully
+2023-03-17 11:38:44.1384 INFO Displayed the list of books successfully

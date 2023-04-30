@@ -1,0 +1,17 @@
+2023-03-22 22:11:02.7962 WARN User is not present
+2023-03-22 22:11:07.4990 WARN User is not present
+2023-03-22 22:11:23.5237 INFO User has been logged in Successfully
+2023-03-22 22:52:31.2450 INFO Admin has been logged in Successfully
+2023-03-22 22:52:54.4314 INFO Displayed the list of assets successfully
+2023-03-22 23:41:34.3821 INFO Admin has been logged in Successfully
+2023-03-22 23:44:39.7279 INFO Admin has been logged in Successfully
+2023-03-22 23:47:55.2420 INFO Admin has been logged in Successfully
+2023-03-22 23:57:14.1669 INFO Admin has been logged in Successfully
+2023-03-22 23:57:20.6787 INFO Displayed the list of assets successfully
+2023-03-22 23:57:22.2368 INFO Displayed the list of assets successfully
+2023-03-22 23:57:24.7061 INFO Displayed the list of assets successfully
+2023-03-22 23:57:24.7288 INFO Displayed the list of users successfully
+2023-03-22 23:57:26.1646 INFO Displayed the list of assets successfully
+2023-03-22 23:57:28.0487 INFO Displayed the list of assets successfully
+2023-03-22 23:57:28.0616 INFO Displayed the list of users successfully
+2023-03-22 23:59:51.9308 INFO Admin has been logged in Successfully

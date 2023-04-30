@@ -1,0 +1,100 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+<!DOCTYPE html>
+@{
+    ViewBag.token = HttpContextAccessor.HttpContext.Session.GetString("admintoken");
+    ViewBag.usertoken = HttpContextAccessor.HttpContext.Session.GetString("usertoken");
+    if (ViewBag.token == null)
+    {
+            {await Html.RenderPartialAsync("Error401Page.cshtml"); }
+
+            <main role="main" class="pb-3 ">
+                @{
+                    IgnoreBody();
+                }
+            </main>
+        
+    }
+
+    else
+    {
+       
+        <html lang="en">
+        <head>
+            <meta charset="utf-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <title>@ViewData["Title"]</title>
+            <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+            <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+            <link rel="stylesheet" href="~/css/StyleSheet.css" asp-append-version="true" />
+            <link rel="stylesheet" href="~/AssetManagementSystemUI.styles.css" asp-append-version="true" />
+        </head>
+       
+
+        <body>
+            <header>
+                <nav class="navigation navbar navbar-expand-sm navbar-toggleable-sm border-bottom box-shadow mb-3" style=" ">
+                    <div class="container-fluid">
+                        <p class="navbar-brand" style="font-size:xx-large; font-weight:700;">Asset Management System </p>
+                        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                            <ul class="navbar-nav flex-grow-1">
+                                <li class="nav-item">
+                                    <div class="dropdown">
+                                        <button class="dropbtn" style="font-size:larger;">Book</button>
+                                        <div class="dropdown-content">
+                                            <a class="text-dark" asp-area="" asp-controller="Book" asp-action="Add">Add</a>
+                                            <a class="text-dark" asp-area="" asp-controller="Book" asp-action="GetAll">Display</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <div class="dropdown navbar-nav flex-grow-1">
+                                        <button class="dropbtn" style="font-size:larger;">Software</button>
+                                        <div class="dropdown-content">
+                                            <a class="text-dark" asp-area="" asp-controller="SoftwareLicense" asp-action="Add">Add</a>
+                                            <a class="text-dark" asp-area="" asp-controller="SoftwareLicense" asp-action="GetAll">Display</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <div class="dropdown">
+                                        <button class="dropbtn" style="font-size:larger;">Hardware</button>
+                                        <div class="dropdown-content">
+                                            <a class="text-dark" asp-area="" asp-controller="Hardware" asp-action="Add">Add</a>
+                                            <a class="text-dark" asp-area="" asp-controller="Hardware" asp-action="GetAll">Display</a>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <div class="dropdown">
+                                        <button class="dropbtn" style="font-size:larger;">Assets</button>
+                                        <div class="dropdown-content">
+                                            <a class="text-dark" asp-area="" asp-controller="Admin" asp-action="Assign">Assign</a>
+                                            <a class="text-dark" asp-area="" asp-controller="Admin" asp-action="GetAssignedAssets">Display</a>
+                                            <a class="text-dark" asp-area="" asp-controller="Admin" asp-action="GetRequestedAssets">Requests</a>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <a class="dropbtn" asp-area="" asp-controller="Admin" asp-action="Login">Log Out</a>
+
+                    </div>
+                </nav>
+            </header>
+            <div class="container">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+            <script src="~/lib/jquery/dist/jquery.min.js"></script>
+            <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+            <script src="~/js/site.js" asp-append-version="true"></script>
+            @await RenderSectionAsync("Scripts", required: false)
+        </body>
+        </html>
+
+    }
+
+}
